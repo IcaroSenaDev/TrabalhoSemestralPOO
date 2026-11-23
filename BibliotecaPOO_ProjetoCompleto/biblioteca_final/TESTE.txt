@@ -1,0 +1,5 @@
+Validação realizada nesta preparação:
+- Compilação de todos os fontes Java com javac 21: OK.
+- Inicialização de Programa e encerramento via opção 0: OK.
+
+A revisão manual de todas as interações do menu ainda deve ser feita pelo grupo no Eclipse antes da apresentação.
